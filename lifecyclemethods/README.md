@@ -5,6 +5,9 @@
 
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
+
+
+
 ## EQUIPMENTS REQUIRED:
 
 Latest Version Android Studio
