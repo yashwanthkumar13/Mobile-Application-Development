@@ -190,7 +190,7 @@ public class MainActivity extends AppCompatActivity {
         textView.setTypeface(selectedFont);}
 }
 ```
-## OUTPUT
+## OUTPUT 
 ![image](https://github.com/Dhanush12022004/Mobile-Application-Development/assets/128135558/ffc9b8f3-a744-4002-8ba7-1cb9dfd07b40)
 
 ![image](https://github.com/Dhanush12022004/Mobile-Application-Development/assets/128135558/206639ee-af70-4329-be43-28a50b2cd815)
